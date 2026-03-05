@@ -3,7 +3,7 @@
 3rd-year student at the **University of Information Technology (UIT)**, 
 majoring in **Computer Networks and Data Communications**.
 
-Working toward becoming a **DevOps / System Engineer** 🚀
+Working toward becoming a **DevOps Engineer** 🚀
 <!--
 ## 🛠 Tools & Technologies
 - Operating Systems: Linux
