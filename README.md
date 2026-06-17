@@ -27,6 +27,10 @@ Looking for opportunities to become a **DevOps Engineer** 🚀
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" />
 
+### 🌱 Currently Learning
+
+[<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="40" height="40" title="AWS SAA-C03"/>](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
 ### 📞 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noseyug)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vansonnguyen220905@gmail.com)
