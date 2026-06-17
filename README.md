@@ -4,14 +4,23 @@
 majoring in **Computer Networks and Data Communications**.
 
 Working toward becoming a **DevOps Engineer** 🚀
-<!--
+
 ## 🛠 Tools & Technologies
-- Operating Systems: Linux
-- Version Control: Git, GitHub
-- Networking: TCP/IP, DNS, HTTP
-- Containers: Docker 
-- CI/CD: GitHub Actions (learning)
-- Cloud: AWS (basic / learning)
-- Scripting: Bash  
-## 📂 Projects
--->
+### 🖥️ OS & Scripting
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+
+### 🗂️ Version Control
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" />
+
+### ☁️ Cloud & IaC
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" />
+
+### 🐳 Containers
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+
+### ⚙️ CI/CD
+<img src="https://skillicons.dev/icons?i=jenkins,gitlab&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48"/>
+
+### 📊 Monitoring
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
