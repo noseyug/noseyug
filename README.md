@@ -1,4 +1,5 @@
 ## Hi, I'm Van Son
+<!--
 
 > Oh wait, let me run this first...
 >
@@ -7,6 +8,8 @@
 > Deploying ...
 >
 > Done! ✓ - Take a look 👇
+
+-->
 ### 🪪 About Me
 Final-year student at the **University of Information Technology (UIT)**,
 majoring in **Computer Networks and Data Communications**.
